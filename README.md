@@ -1,4 +1,4 @@
-# OpenWRT 上利用 CloudXNS 实现 DDNS 的脚本
+# OpenWRT 上利用 CloudXNS 实现 DDNS
 
 前期准备:
 安装 curl ddns-scripts luci-app-ddns 这几个软件包
