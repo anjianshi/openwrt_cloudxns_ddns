@@ -14,3 +14,6 @@
 - `用户名` 填 CloudXNS 的 API key
 - `密码` 填 CloudXNS 的 SECRET KEY
 - 点"保存&应用"，返回上一页后点“开始”
+
+相关资料：
+https://wiki.openwrt.org/doc/uci/ddns
